@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Try{Finally}</title>
+    <description>&lt;b&gt;Carefully crafted coding tutorials&lt;/b&gt; &lt;p&gt; Learn, discuss, and enjoy!
+</description>
+    <link>http://d9n.github.io/tryfinally/</link>
+    <atom:link href="http://d9n.github.io/tryfinally/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Feb 2016 18:36:57 -0800</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 18:36:57 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+  </channel>
+</rss>
